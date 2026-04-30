@@ -197,11 +197,11 @@ Media queries ordonnées du mobile vers le desktop :
 ### 🏠 Page d'accueil — Grille des Pokémon
 ![Accueil](docs/accueil.png)
 
-### 🔍 Grille filtrée
-![Accueil filtré](docs/accueil2.png)
+### 🔍 Page de détail
+![Détail Pokémon](docs/accueil2.png)
 
-### 📄 Page de détail
-![Détail Pokémon](docs/detail.png)
+### 📄 Grille filtrée
+![Grille filtrée](docs/detail.png)
 
 ### ℹ️ Page À propos
 ![À propos](docs/about.png)
